@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name[en_US]=JDownloader
+GenericName=JDownloader
+Exec=java -jar /home/aoj/JDownloader/JDownloader.jar
+Terminal=true
+Type=Application
+Categories=Application;Network;Security;
